@@ -1,10 +1,16 @@
 # Paypal payment managment system (PHP&MYSQL)
 The PayPal payment management system is created to receive online payments. You can receive payment with a form.
 You can create desired payment amount link and receive payment online using the Paypal payment gateway. Integrate PayPal payment gateway using PHP and MYSQL. 
+![image](https://user-images.githubusercontent.com/41726733/209433003-53a1caf7-f102-44dc-be27-c054d31fd058.png)
+
 The PayPal payment management system is created in PHP with an MYSQL database. 
 You can easily install it on your server with a single payment form. 
+![image](https://user-images.githubusercontent.com/41726733/209433009-ba8c7f3e-0de2-4ea4-9975-ea0307bd6279.png)
+
 In the PayPal payment system, you can create invoices, send email notifications to customers and receive payments. Users can download payment invoices in PDF. 
 A website holder can receive payment from the clients and can generate invoices with or without GST %. 
+![image](https://user-images.githubusercontent.com/41726733/209433017-0f7ea741-62ea-4ff5-b50f-876798439109.png)
+
 This PHP web application is developed for complete payment solutions using the PayPal payment gateway in PHP. Paypal payment gateway integration in PHP with an MYSQL database. The payment form has been designed for the business holder, freelancer, and shop owner using the Paypal payment gateway.
 # Features – 
 <strong>Admin panel </strong><br>
