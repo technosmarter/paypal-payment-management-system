@@ -21,7 +21,7 @@ This PHP web application is developed for complete payment solutions using the P
 <strong>Invoice generator with or without GST%</strong> <br>
 # Installation 
 You can easily install Paypal management system on local or live server.<br>
-1.	First , get Paypal payment management system from here . You can watch complete demo there . Get and download the zip file.<br>
+1.	First , get <a href="https://technosmarter.com/item/paypal-payment-form-with-email-invoice-generator-in-php-website">Paypal payment management system from here.</a> You can watch complete demo there . Get and download the zip file.<br>
 2.	Extract the zip file and upload on your server where you want to execute.<br> 
 3.	Open URL like – example.com/ pay/    or root folder example.com/ <br>
 4. Enter your host, database username, database name, and password.<br>
@@ -32,3 +32,8 @@ Like – example.com/pay/ or for root example.com/ <br>
 Paypal payment management system allows you receive online payments from the customers using two forms. In the first form, user can add any amount and in the second form , admin set desire amount and customer pays that amount. 
 Admin can create invoice and send to the customers . Admin can send email with email sender form with or without payment link with a pay button .
 This is complete web application to integrate Paypal payment gateway in PHP and MYSQL . 
+# Developer 
+ <a href="https://technosmarter.com">Techno Smarter </a>
+ # Paypal payment form with email, invoice generator in PHP website | Scripts
+ <a href="https://technosmarter.com/item/paypal-payment-form-with-email-invoice-generator-in-php-website">Paypal payment form with email, invoice generator in PHP website | Scripts</a>
+ 
